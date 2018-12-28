@@ -3,5 +3,8 @@
         "aws-sdk": ">= 2.0.9",
         "mocha": "^5.2.0",
         "node-uuid": ">= 1.4.1"
+    },
+    "scripts": {
+        "test": "mocha"
     }
 }
